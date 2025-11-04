@@ -54,5 +54,5 @@ palabra[0] = "N" #No deja porque es inmutable por ser un String
 
 palabra = "Python"
 palabra = "N" + palabra[1:]
-print(palabra) #Este si sirve porque no estas reasignando el String porque como he dicho antes el String es inmutable
+print(palabra) #Este si sirve porque no estás reasignando el String porque como he dicho antes el String es inmutable
 
