@@ -5,7 +5,7 @@ contador = 1
 
 while numero < 0 or numero > 99999:
     print("El número no es válido")
-    numero = int(input("Introduce un número"))
+    numero = int(input("Introduce un número: "))
     
 while numero > 10:
     numero = numero / 10
